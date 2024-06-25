@@ -1,3 +1,4 @@
+--mssql
 select
     rd.brandCode,
     b.name as brandName,
