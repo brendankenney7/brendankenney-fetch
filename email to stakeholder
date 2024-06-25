@@ -1,8 +1,8 @@
 Hi [Stakeholder],
 
-I have pulled together the data which answers your questions about the brand with the most spend and the brand with the most transactions among users created in the last 6 months.
+I have pulled together the data which answers your questions regarding the top brand by spend and the top brand by transactions among users created in the last 6 months.
 
-To provide you with the most helpful information possible, I'd like to get a sense for what you are trying to understand with this information. The current result looks across all brands within consumer receipt scans, regardless of Fetch product partner status. If you are looking to understand top Fetch product partner brands, I can modify my query to provide you the correct data.
+To provide you with the most helpful information possible, I'd like to get a sense for what you are trying to understand with this information. The current result looks across all brands within consumer receipt scans, regardless of Fetch product partner status. The data also includes all users created within the last 6 months, including those that are now inactive. Please let me know if you have any additional critera, and I can modify the data query accordingly.
 
 You may notice that a significant amount of spend and number of transactions are associated with "null" brands. This is because of a data issue where nearly half of products captured in the receipt scan data do not have associated brand name information. I discovered this issue while exploring item-level receipt scan data.
 
